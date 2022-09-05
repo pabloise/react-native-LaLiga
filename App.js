@@ -2,7 +2,7 @@ import HomeScreen from './screens/HomeScreen'
 import TeamDetailsScreen from './screens/TeamDetailsScreen'
 import { NavigationContainer } from '@react-navigation/native'
 import { createNativeStackNavigator } from '@react-navigation/native-stack'
-import PlayerDetailsScreen from './screens/PlayerDetailsScreen'
+import PlayerDetailsScreen from './screens/PlayerDetailsScreen';
 
 const Stack = createNativeStackNavigator();
 
